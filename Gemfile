@@ -16,4 +16,4 @@ gem "docker-api"
 gem "sinatra-activerecord"
 
 
-gem "google-cloud-spanner", :github => "mghadley/google-cloud-ruby/google-cloud-spanner", :branch => "debugging"
+gem "google-cloud-spanner", :github => "mghadley/google-cloud-ruby", :branch => "debugging"
