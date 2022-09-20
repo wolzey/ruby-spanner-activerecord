@@ -14,3 +14,6 @@ gem "composite_primary_keys"
 # Required for samples
 gem "docker-api"
 gem "sinatra-activerecord"
+
+
+gem "google-cloud-spanner", :github => "mghadley/google-cloud-ruby/google-cloud-spanner", :branch => "debugging"
